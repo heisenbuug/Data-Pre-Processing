@@ -20,12 +20,12 @@ My goal is also to create a `Getting Started with ML with mlpack` tutorial, wher
  
 ### If applicable, describe how this feature would be implemented.
 
-I have already implemented a bit.
+I have already implemented a bit. Check [data.cpp](https://github.com/heisenbuug/Data-Pre-Processing/blob/main/data.cpp)
 
 Output
-![Capture](https://user-images.githubusercontent.com/32970979/99764257-ad38df00-2b22-11eb-9b72-3a16f7220347.PNG)
 
-I am thinking of also implementing a `describe`(open to naming suggestions) method which will contain `count mean std min max` and other insightful information. Pandas' methods mostly inspire these and as @zoq suggested we already have many functions available.  
+![Capture](https://user-images.githubusercontent.com/32970979/99764257-ad38df00-2b22-11eb-9b72-3a16f7220347.PNG)
+ 
 
 ### Additional information?
 

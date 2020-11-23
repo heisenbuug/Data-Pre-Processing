@@ -7,9 +7,9 @@ As discussed a bit in the [PR](https://github.com/mlpack/examples/pull/137). I s
 
 I compiled a list of features that can be implemented: 
 - [x] **info()**: Already implemented, I was thinking maybe we could add the count of non-null values in front of each attribute, let me know if you guys think it's useful.
-- [ ] **describe()**: This will return `count` `mean` `std` `25%` `50%(median)` `75%` `max` `min` we can take help of armadillo to implement this method. [this](http://arma.sourceforge.net/docs.html#stats_fns) and [this](http://arma.sourceforge.net/docs.html#running_stat)
+- [x] **describe()**: This will return `count` `mean` `std` `25%` `50%(median)` `75%` `max` `min` we can take help of armadillo to implement this method. [this](http://arma.sourceforge.net/docs.html#stats_fns) and [this](http://arma.sourceforge.net/docs.html#running_stat)
 - [ ] **hist()**: To get the feel of the data, we can either plot it attributes wise or calling a single method which will plot a histogram for all numerical values. We can use [this](https://github.com/lava/matplotlib-cpp) to plot histograms. Just a single file so easy to handle the dependency. 
-- [ ] A method to find the data type of the attributes. Also if it is categorical then we might need to convert it into numerical values, a function for that will also be helpful. 
+- [x] A method to find the data type of the attributes. Also if it is categorical then we might need to convert it into numerical values, a function for that will also be helpful. 
 
 I will be adding more features to the list, this seems good enough to get started.
 ### What is the motivation for this feature?

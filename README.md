@@ -20,7 +20,7 @@ My goal is also to create a `Getting Started with ML with mlpack` tutorial, wher
  
 ### If applicable, describe how this feature would be implemented.
 
-I have already implemented a bit. Check [data.cpp](https://github.com/heisenbuug/Data-Pre-Processing/blob/main/)
+I have already implemented a bit. [Check](https://github.com/heisenbuug/Data-Pre-Processing)
 
 ### Additional information?
 
